@@ -1,0 +1,5 @@
+# CODEOWNERS - jeder Pull Request braucht eine Freigabe von luna-aven
+# (Review-Account, getrennt vom Entwickler-Account titan-aven)
+# Siehe AGENTS.md Punkt 3 fuer den vollen Kontext.
+
+* @luna-aven
